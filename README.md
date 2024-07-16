@@ -1,3 +1,4 @@
+![logo](https://github.com/Pankajbhardwaj84330/Pankajbhardwaj84330/blob/main/banner_2.png)
 <h1 align="center">Hi 👋, I'm Pankaj bhadwaj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/0ivDTX0GtTMgRrj077WbuyJQtlV1IngchhTFzAGLjTI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhZVEptTm5SdE1u/cHBhM2xtYlhGbGRt/bHpjekIwYkdNeE56/RjJiMmh5TkhWNE9Y/cHhkbU14YlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vcWdRVWdnQUMz/UGZ2Njg3cVBDLzIw/MC5naWY.gif">
